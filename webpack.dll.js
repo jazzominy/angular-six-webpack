@@ -13,7 +13,6 @@ module.exports = {
         "vendor": [
             //'./node_modules/zone.js/dist/zone.js',
             '@angular/platform-browser',
-            './node_modules/@angular/platform-browser/fesm5/animations.js',
             '@angular/platform-browser-dynamic',
             '@angular/compiler',
             '@angular/core',
@@ -21,7 +20,6 @@ module.exports = {
             '@angular/http',
             '@angular/forms',
             '@angular/animations',
-            './node_modules/@angular/animations/fesm5/browser.js',
             '@angular/router'
         ]
     },
